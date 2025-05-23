@@ -7,13 +7,13 @@
 
 // WiFi credentials
 const char* ssid = "realme 9 Pro 5G";
-const char* password = "manish32";
+const char* password = "harish32";
 
 // HiveMQ Cloud Broker details
 const char* mqttServer = "6045e79d076a4ac5970c933c07e298f2.s1.eu.hivemq.cloud";
 const int mqttPort = 8883;
-const char* mqttUser = "Manish";
-const char* mqttPassword = "Manish@004";
+const char* mqttUser = "harish";
+const char* mqttPassword = "harish@004";
 
 // MQTT topics
 const char* mqttTopic = "mpu/acceleration";
